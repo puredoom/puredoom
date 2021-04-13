@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stampler</h1>
 <h3 align="center">A crappy Developer</h3>
 
-- 🔭 I’m currently working on **custom**
+- 🔭 I’m currently working on **custom plugins & mods**
 
 - 📫 How to reach me **davidtweedeacc@gmail.com**
 
