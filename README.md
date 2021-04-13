@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stampler</h1>
 <h3 align="center">A crappy Developer</h3>
 
-- 🔭 I’m currently working on **custom plugins & mods**
+- 🔭 I’m currently working on **a cheat for LOTRMod 1.16.5, an anticheat for LOTRMod 1.16.5 and a submod for LOTRMod 1.16.5**
 
 - 📫 How to reach me **discord: stampler#3691**
+
+-🤖 What am 
 
 
 <h3 align="left">Languages and Tools:</h3>
