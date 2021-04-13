@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **custom plugins & mods**
 
-- 📫 How to reach me **davidtweedeacc@gmail.com**
+- 📫 How to reach me **discord: stampler#3691**
 
 
 <h3 align="left">Languages and Tools:</h3>
