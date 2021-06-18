@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stampler</h1>
-<h3 align="center">A crappy Developer</h3>
-
-- 🔭 I’m currently working on **big core plugin & kitpvp!**
+<h3 align="center">A Java, C++ & Python Developer.</h3>
 
 - 📫 How to reach me **discord: stampler#3691**
+- 75 EURO for any project, small projects may be discussed.
+- Experienced in game servers & game modifications.
 
 
 <h3 align="left">Languages and Tools:</h3>
