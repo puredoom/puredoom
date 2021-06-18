@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stampler</h1>
 <h3 align="center">A crappy Developer</h3>
 
-- 🔭 I’m currently working on **Looking for a project!**
+- 🔭 I’m currently working on **big core plugin & kitpvp!**
 
 - 📫 How to reach me **discord: stampler#3691**
 
