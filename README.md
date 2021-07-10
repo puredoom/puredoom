@@ -2,7 +2,7 @@
 <h3 align="center">A Java, C++ & Python Developer.</h3>
 
 - 📫 How to reach me **discord: stampler#3691**
-- 75 EURO for any project, small projects may be discussed.
+- 10 EURO for any project, small projects may be discussed.
 - Experienced in game servers & game modifications.
 
 
