@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stampler</h1>
 <h3 align="center">A Java, C++ & Python Developer.</h3>
 
-- 📫 How to reach me **discord: stampler#3691**
+- 📫 How to reach me **discord: stampler#6666**
 - 10 EURO for any project, small projects may be discussed.
 - Experienced in game servers & game modifications.
 
