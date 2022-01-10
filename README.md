@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust (The coding language & not the game).**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
