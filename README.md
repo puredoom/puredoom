@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **stamplergg@gmail.com**
+- 📫 How to reach me **DC: puredoom**
 
 - ⚡ Fun fact **I like to play video-games and hit the gym!**
 
